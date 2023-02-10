@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "leads tracker",
+    "icons": {
+        "48": "icon48.png"
+    },
+    "action":{
+        "default_popup": "index.html",
+        "default_icon" : "icon48.png"
+    },
+    "permission":[
+        "tabs"
+    ]
+}
